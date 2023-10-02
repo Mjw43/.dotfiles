@@ -1,0 +1,2 @@
+Morgan James Wilson
+In this Lab I used the terminal to open a vim configuration file and modify the file settings to my liking. I did this by opening the file with vim .vimrc and modifying the configurations as specified in the lab. I then saved/write the file and quit/exit. after doing this I used the cp .vimrc ~/Desktop/mjw42_lab_02guided.txt to duplicate this file on my desktop. after doing that I opened it back up in vim to write this. The biggest hurdle I encountered was figuring out how to write/save the file as the UI confused me at first.
